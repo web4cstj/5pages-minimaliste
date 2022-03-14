@@ -18,18 +18,18 @@
         </thead>
         <tbody>
             <tr>
-                <td><a href="show.php?id=1">Rita Raté</a></td>
+                <td><a href="details.php?id=1">Rita Raté</a></td>
                 <td>
-                    <a href="show.php?id=1"><b class="material-icons">visibility</b>Détails</a> | 
-                    <a href="update.php?id=1"><b class="material-icons">edit</b>Modifier</a> | 
-                    <a href="delete.php?id=1"><b class="material-icons">delete</b>Supprimer</a>
+                    <a href="details.php?id=1"><b class="material-icons">visibility</b>Détails</a> | 
+                    <a href="modifier.php?id=1"><b class="material-icons">edit</b>Modifier</a> | 
+                    <a href="supprimer.php?id=1"><b class="material-icons">delete</b>Supprimer</a>
                 </td>
             </tr>
         </tbody>
         <tfoot>
             <tr>
                 <td></td>
-                <td><a href="create.php"><b class="material-icons">add_circle_outline</b>Ajouter</a></td>
+                <td><a href="ajouter.php"><b class="material-icons">add_circle_outline</b>Ajouter</a></td>
             </tr>
         </tfoot>
     </table>

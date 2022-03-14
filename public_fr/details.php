@@ -21,8 +21,8 @@
     </table>
     <div>
         <a href="index.php"><b class="material-icons">view_list</b>Retour à la liste</a> |
-        <a href="update.php?id=1"><b class="material-icons">edit</b>Modifier</a> |
-        <a href="delete.php?id=1"><b class="material-icons">delete</b>Supprimer</a>
+        <a href="modifier.php?id=1"><b class="material-icons">edit</b>Modifier</a> |
+        <a href="supprimer.php?id=1"><b class="material-icons">delete</b>Supprimer</a>
     </div>
 </body>
 

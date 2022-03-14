@@ -1,0 +1,15 @@
+{
+    "name": "web4cstj/cinq-pages-min",
+    "description": "Le HTML minimum pour faire les 5 pages",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Martin Boudreau",
+            "email": "32491185+bobanum@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    }
+}
